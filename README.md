@@ -5,7 +5,7 @@ Developed an interactive **Customer Churn Analysis Dashboard** in **Power BI** t
 
 ## 🎯 Objectives
 ✔️ Analyze customer churn trends and behavior  
-✔️ Identify high-risk customer segments  
+✔️ Identify high-risk customer segments
 ✔️ Understand the impact of demographics, contracts, and services on churn  
 ✔️ Support data-driven customer retention strategies  
 
