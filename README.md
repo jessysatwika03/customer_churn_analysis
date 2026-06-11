@@ -38,7 +38,6 @@ This dashboard provides a comprehensive view of customer behavior and churn patt
 ---
 👩‍💻 **Author:** 
 - **Jessy Satwika**
-- **Sreethi**  
 📊 **Domain:** Data Analytics & Business Intelligence  
 🖥️ **Tool Used:** Power BI  
 
